@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts residential property prices in Bangalore using Linear Regression — with interactive location selection on a real map and data analysis visualizations.
 
-**Live Demo:** *[House_Prediction_OLS](https://85zg4bppzcapm3kq36cup2.streamlit.app/)*
+**Live Demo:** *[House_Prediction_OLS.streamlit.app](https://85zg4bppzcapm3kq36cup2.streamlit.app/)*
 
 ---
 
