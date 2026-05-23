@@ -1,6 +1,7 @@
 # ===== Ignored =====
 .env
 .venv/
+notebook/
 __pycache__/
 *.pyc
 *.pyo
