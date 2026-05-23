@@ -1,0 +1,26 @@
+# ===== Ignored =====
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.claude/
+archive/
+image/
+temp/
+*.md
+
+# ===== Generated artifacts =====
+model/*
+!model/model.pkl
+!model/columns.json
+!model/eval_data.pkl
+
+# ===== Large files (>50MB) =====
+
+
+# ===== Tracked (intentionally NOT ignored) =====
+# dataset/        -> tracked
+# *.pbix          -> tracked
+!/README.md
